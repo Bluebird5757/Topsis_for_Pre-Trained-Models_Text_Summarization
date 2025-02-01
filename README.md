@@ -63,13 +63,16 @@ The following plots provide insights into the performance of different models.
 #### 1️⃣ Efficiency Metrics Comparison
 The bar chart below compares the models based on **Inference Time**, **Model Size**, and **Memory Usage**:
 
-![Efficiency Metrics Comparison](https://github.com/user-attachments/assets/your_generated_graph_link1)
+![Efficiency Metrics Comparison](https://github.com/user-attachments/assets/5744b5a3-7eac-4276-8b2e-80169cf2dd83)
+
 
 #### 2️⃣ ROUGE and BLEU Score Comparison
-![ROUGE BLEU Scores](https://github.com/user-attachments/assets/your_generated_graph_link2)
+![ROUGE BLEU Scores](https://github.com/user-attachments/assets/fd28c0bc-870d-47d1-881d-d261fe37bed8)
+
 
 #### 3️⃣ TOPSIS Score Ranking
-![TOPSIS Scores](https://github.com/user-attachments/assets/your_generated_graph_link3)
+![TOPSIS Scores](https://github.com/user-attachments/assets/616c52f5-74c8-4e84-810b-218efe2f688e)
+
 
 ---
 
