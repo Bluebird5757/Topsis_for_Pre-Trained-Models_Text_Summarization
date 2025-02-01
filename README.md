@@ -23,7 +23,7 @@ These models are tested on a **benchmark dataset** to ensure fair comparison.
 ---
 
 ### 2️⃣ Dataset Used
-The dataset chosen for this evaluation is **CNN/DailyMail**, a widely used dataset for abstractive summarization.
+The dataset chosen for this evaluation is **xsum**, a widely used dataset for abstractive summarization.
 
 > 📌 **Dataset Source:** `cnn_dailymail` from Hugging Face `datasets` library
 
